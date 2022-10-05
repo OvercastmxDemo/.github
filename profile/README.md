@@ -1,30 +1,34 @@
-# ¡Aplicaciones Overcast!
+## ¡Aplicaciones Overcast!
 
 Bienvenido al catálogo de aplicaciones de caja con las que cuenta Overcast, aquí podrás encontrar diferentes soluciones para tu organización.
 
-***UNIVERSIDAD**
+## UNIVERSIDAD
 
-**Descripción:**
+**Descripción**
 
-**La aplicación de Universidad provee a los usuarios de una galería con cursos, los cuales son cargados por el administrador de la aplicación y colocados para la disposición de los usuarios, los cuales se pueden inscribir y poder tener acceso al enlace del curso entre otras cosas.**
+La aplicación de Universidad provee a los usuarios de una galería con cursos, los cuales son cargados por el administrador de la aplicación y colocados para la disposición de los usuarios, los cuales se pueden inscribir y poder tener acceso al enlace del curso entre otras cosas.
 
-**Origen de datos: Sharepoint**
+**Origen de datos**
+Sharepoint
 
 **Diagrama de arquitectura:**
 
 ![dsdf](https://github.com/OvercastmxDemo/OpenApiDataVerse/blob/master/diagrama%20arquitectura%20formato%204%20(1).png)
 
-**Detalles: No requiere ninguna suscripción de Azure o conector premium**
+**Detalles**
+No requiere ninguna suscripción de Azure o conector premium
 
 **Minutas**
 
-**Descripción: aplicación de creación de minutas dentro de una llamada.**
+**Descripción**
+Aplicación para la creación de minutas dentro de una llamada, esto nos permite tener una evidencia de lo acordado dentro de las sesiones y asignar responsables a ellas, al acabar la sesión se envía a través del correo electrónico a todos los involucrados dentro de la llamada.
 
-**Origen de datos: Se almacena la información de cada minuta en un sitio de SharePoint**
+**Origen de datos**
+Sharepoint.
 
 **Diagrama de arquitectura:**
 
-![Documento%205f9e0cb254d945619bb74b75fca93969/image1.jpg](Documento%205f9e0cb254d945619bb74b75fca93969/image1.jpg)
+![dsdf](https://github.com/OvercastmxDemo/OpenApiDataVerse/blob/master/diagrama%20arquitectura%20formato%204%20(1).png)
 
 **Detalles: No requiere ninguna suscripción de Azure o conector premium**
 
@@ -40,7 +44,7 @@ La aplicación proporciona una interfaz fácil para que los usuarios designados 
 
 **Diagrama de arquitectura:**
 
-![Documento%205f9e0cb254d945619bb74b75fca93969/image2.png](Documento%205f9e0cb254d945619bb74b75fca93969/image2.png)
+![dsdf](https://github.com/OvercastmxDemo/OpenApiDataVerse/blob/master/diagrama%20arquitectura%20formato%204%20(1).png)
 
 **Detalles:**
 
@@ -62,7 +66,7 @@ La aplicación de Control de acceso es una aplicación para el check in y check 
 
 **Diagrama de arquitectura:**
 
-![Documento%205f9e0cb254d945619bb74b75fca93969/image3.png](Documento%205f9e0cb254d945619bb74b75fca93969/image3.png)
+![dsdf](https://github.com/OvercastmxDemo/OpenApiDataVerse/blob/master/diagrama%20arquitectura%20formato%204%20(1).png)
 
 - Reconocimientos
 
@@ -72,7 +76,7 @@ La aplicación de Control de acceso es una aplicación para el check in y check 
 
 **Diagrama de arquitectura:**
 
-![Documento%205f9e0cb254d945619bb74b75fca93969/image4.png](Documento%205f9e0cb254d945619bb74b75fca93969/image4.png)
+![dsdf](https://github.com/OvercastmxDemo/OpenApiDataVerse/blob/master/diagrama%20arquitectura%20formato%204%20(1).png)
 
 **Detalles:**
 
