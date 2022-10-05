@@ -1,12 +1,99 @@
-## Cuenta oficial del equipo de desarrollo de Overcast con Demos, Pruebas de concepto y Proyectos de investigación 👋
+# Documento
 
-<!--
+**UNIVERSIDAD**
 
-**Here are some ideas to get you started:**
+**Descripción:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**La aplicación de Universidad provee a los usuarios de una galería con cursos, los cuales son cargados por el administrador de la aplicación y colocados para la disposición de los usuarios, los cuales se pueden inscribir y poder tener acceso al enlace del curso entre otras cosas.**
+
+**Origen de datos: Sharepoint**
+
+**Diagrama de arquitectura:**
+
+![Documento%205f9e0cb254d945619bb74b75fca93969/image1.jpg](Documento%205f9e0cb254d945619bb74b75fca93969/image1.jpg)
+
+**Detalles: No requiere ninguna suscripción de Azure o conector premium**
+
+**Minutas**
+
+**Descripción: aplicación de creación de minutas dentro de una llamada.**
+
+**Origen de datos: Se almacena la información de cada minuta en un sitio de SharePoint**
+
+**Diagrama de arquitectura:**
+
+![Documento%205f9e0cb254d945619bb74b75fca93969/image1.jpg](Documento%205f9e0cb254d945619bb74b75fca93969/image1.jpg)
+
+**Detalles: No requiere ninguna suscripción de Azure o conector premium**
+
+**Company Comunicator**
+
+**Descripción:**
+
+Company Communicator es una aplicación personalizada de Teams que permite a los equipos corporativos crear y enviar mensajes destinados a varios equipos o una gran cantidad de empleados a través del chat, lo que permite a la organización llegar a los empleados justo donde colaboran. Utilice esta plantilla para múltiples escenarios, como anuncios de nuevas iniciativas, incorporación de empleados, aprendizaje y desarrollo modernos o transmisiones en toda la organización.
+
+La aplicación proporciona una interfaz fácil para que los usuarios designados creen, obtengan una vista previa, colaboren y envíen mensajes. También es una base para crear capacidades de comunicación dirigidas personalizadas, como la telemetría personalizada sobre cuántos usuarios reconocieron o interactuaron con un mensaje.
+
+**Origen de datos:** Cuenta de almacenamiento azure.
+
+**Diagrama de arquitectura:**
+
+![Documento%205f9e0cb254d945619bb74b75fca93969/image2.png](Documento%205f9e0cb254d945619bb74b75fca93969/image2.png)
+
+**Detalles:**
+
+Elementos importantes: Data Function, Prep function, function, App Service.
+
+**Reserva tu lugar**
+
+**Descripción:**
+
+Esta solución se compone de 3 aplicaciones (Reserva tu lugar, Control de acceso, Administración)
+
+La aplicación “Reserva tu lugar” ayuda a mostrar las áreas de trabajo donde los usuarios internos tienen permitido realizar reservaciones propias para un grupo de trabajo con usuarios internos y usuarios externos, consultar solicitudes actuales y anteriores, conocer los protocolos de seguridad dados de alta por el administrador
+
+La aplicación de administración permite crear, modificar y ver detalles los espacios, los lugares que están disponibles para los usuarios, además de los criterios de cada uno de ellos, obtener reportes de las reservaciones y gestionar los aprobadores para la aplicación
+
+La aplicación de Control de acceso es una aplicación para el check in y check out a los usuarios, buscar la reservación por medio de QR o código de acceso
+
+**Origen de datos:** Sharepoint**.**
+
+**Diagrama de arquitectura:**
+
+![Documento%205f9e0cb254d945619bb74b75fca93969/image3.png](Documento%205f9e0cb254d945619bb74b75fca93969/image3.png)
+
+- Reconocimientos
+
+**Descripción: Aplicación para envío de reconocimientos por chat personal o en grupo de teams y personalización de catálogo de reconocimientos**
+
+**Origen de datos: En SharePoint se guarda el historial de envió y catálogo de reconocimientos**
+
+**Diagrama de arquitectura:**
+
+![Documento%205f9e0cb254d945619bb74b75fca93969/image4.png](Documento%205f9e0cb254d945619bb74b75fca93969/image4.png)
+
+**Detalles:**
+
+Sin necesidad de conectores premium o extras.
+
+- Overcommunicator
+
+**Descripción:** A través de esa aplicación se podrá realizar el envío de comunicados a las y los colaboradores, permitiendo una difusión a la población total.
+
+Los comunicados podrán incluir texto, imágenes y un enlace que permitirá al usuario profundizar más en la temática del comunicado.
+
+Asimismo, la aplicación permitirá notificar a las y los usuarios a través de una *active card* publicada en el chat de los usuarios, la cual redirigirá a los usuarios a la aplicación.
+
+El acceso a esta aplicación será a través de Microsoft Teams y PowerApps y se contará con una vinculación con la intranet para atraer a los usuarios desde esa plataforma.
+
+**Origen de datos:** En SharePoint se guarda el historial de envió y catálogo de reconocimientos
+
+**Diagrama de arquitectura:**
+
+![Documento%205f9e0cb254d945619bb74b75fca93969/image5.jpeg](Documento%205f9e0cb254d945619bb74b75fca93969/image5.jpeg)
+
+**Detalles:**
+
+Por cada 1000 usuarios se debe tener una cuenta de servicio.
+
+El tiempo aproximado par él envió de comunicados es de 8 horas.
