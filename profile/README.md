@@ -10,7 +10,7 @@
 
 **Diagrama de arquitectura:**
 
-![Documento%205f9e0cb254d945619bb74b75fca93969/image1.jpg](Documento%205f9e0cb254d945619bb74b75fca93969/image1.jpg)
+![dsdf](https://github.com/OvercastmxDemo/OpenApiDataVerse/blob/master/diagrama%20arquitectura%20formato%204%20(1).png)
 
 **Detalles: No requiere ninguna suscripción de Azure o conector premium**
 
