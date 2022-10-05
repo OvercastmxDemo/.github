@@ -110,7 +110,7 @@ En SharePoint se guarda el historial de envió y catálogo de reconocimientos
 
 **Diagrama de arquitectura**
 
-![Documento%205f9e0cb254d945619bb74b75fca93969/image5.jpeg](Documento%205f9e0cb254d945619bb74b75fca93969/image5.jpeg)
+![dsdf](https://github.com/OvercastmxDemo/OpenApiDataVerse/blob/master/diagrama%20arquitectura%20formato%204%20(1).png)
 
 **Detalles**
 
