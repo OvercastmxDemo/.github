@@ -9,6 +9,7 @@ Bienvenido al catálogo de aplicaciones de caja con las que cuenta Overcast, aqu
 La aplicación de Universidad provee a los usuarios de una galería con cursos, los cuales son cargados por el administrador de la aplicación y colocados para la disposición de los usuarios, los cuales se pueden inscribir y poder tener acceso al enlace del curso entre otras cosas.
 
 **Origen de datos**
+
 Sharepoint
 
 **Diagrama de arquitectura:**
