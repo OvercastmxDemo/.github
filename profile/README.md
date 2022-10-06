@@ -29,7 +29,7 @@ Sharepoint.
 
 **Diagrama de arquitectura**
 
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/diagrama%20arquitectura%20formato%204%20(1).png)
+![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
 
 **Detalles**
 
@@ -49,7 +49,7 @@ Cuenta de almacenamiento azure.
 
 **Diagrama de arquitectura**
 
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/diagrama%20arquitectura%20formato%204%20(1).png)
+![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
 
 **Detalles**
 
@@ -73,7 +73,7 @@ Sharepoint
 
 **Diagrama de arquitectura**
 
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/diagrama%20arquitectura%20formato%204%20(1).png)
+![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
 
 ## Reconocimientos
 
@@ -87,7 +87,7 @@ SharePoint
 
 **Diagrama de arquitectura:**
 
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/diagrama%20arquitectura%20formato%204%20(1).png)
+![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
 
 **Detalles**
 
@@ -111,7 +111,7 @@ En SharePoint se guarda el historial de envió y catálogo de reconocimientos
 
 **Diagrama de arquitectura**
 
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/diagrama%20arquitectura%20formato%204%20(1).png)
+![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
 
 **Detalles**
 
