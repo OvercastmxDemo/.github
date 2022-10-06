@@ -1,4 +1,5 @@
 ## ¡Aplicaciones Overcast!
+![image](https://user-images.githubusercontent.com/18431533/194435351-42b1eab9-0a53-42b6-9c9e-30ac5020870f.png)
 
 Bienvenido al catálogo de aplicaciones de caja con las que cuenta Overcast, aquí podrás encontrar diferentes soluciones para tu organización.
 
