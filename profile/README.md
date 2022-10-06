@@ -14,7 +14,7 @@ Sharepoint
 
 **Diagrama de arquitectura:**
 
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/diagrama%20arquitectura%20formato%204%20(1).png)
+![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
 
 **Detalles**
 No requiere ninguna suscripción de Azure o conector premium
