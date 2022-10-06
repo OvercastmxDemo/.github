@@ -101,3 +101,13 @@ En SharePoint se guarda el historial de envió y catálogo de reconocimientos
 Por cada 1000 usuarios se debe tener una cuenta de servicio.
 
 El tiempo aproximado par él envió de comunicados es de 8 horas.
+
+**Paquetes**
+1000 - 5000 comunicados (3 semanas) 
+
+5001 - 10000 comunicados (4 semanas)
+
+10001 en adelante (6 semanas)
+
+
+
