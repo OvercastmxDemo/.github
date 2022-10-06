@@ -45,6 +45,10 @@ https://github.com/OfficeDev/microsoft-teams-apps-company-communicator
 
 Cuenta de almacenamiento azure.
 
+**Costo**
+
+https://github.com/OfficeDev/microsoft-teams-apps-company-communicator/wiki/Cost-estimate
+
 **Detalles**
 
 Elementos importantes: Data Function, Prep function, function, App Service.
