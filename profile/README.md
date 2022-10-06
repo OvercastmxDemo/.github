@@ -12,10 +12,6 @@ La aplicación de Universidad provee a los usuarios de una galería con cursos, 
 
 Sharepoint
 
-**Diagrama de arquitectura:**
-
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
-
 **Detalles**
 No requiere ninguna suscripción de Azure o conector premium
 
@@ -26,10 +22,6 @@ Aplicación para la creación de minutas dentro de una llamada, esto nos permite
 
 **Origen de datos**
 Sharepoint.
-
-**Diagrama de arquitectura**
-
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
 
 **Detalles**
 
@@ -46,10 +38,6 @@ La aplicación proporciona una interfaz fácil para que los usuarios designados 
 **Origen de datos** 
 
 Cuenta de almacenamiento azure.
-
-**Diagrama de arquitectura**
-
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
 
 **Detalles**
 
@@ -71,10 +59,6 @@ La aplicación de Control de acceso es una aplicación para el check in y check 
 
 Sharepoint
 
-**Diagrama de arquitectura**
-
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
-
 ## Reconocimientos
 
 **Descripción**
@@ -84,10 +68,6 @@ Aplicación para envío de reconocimientos por chat personal o en grupo de teams
 **Origen de datos**
 
 SharePoint
-
-**Diagrama de arquitectura:**
-
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
 
 **Detalles**
 
@@ -108,10 +88,6 @@ El acceso a esta aplicación será a través de Microsoft Teams y PowerApps y se
 **Origen de datos** 
 
 En SharePoint se guarda el historial de envió y catálogo de reconocimientos
-
-**Diagrama de arquitectura**
-
-![dsdf](https://github.com/OvercastmxDemo/demo/blob/main/Sin-t%C3%ADtulo-1.png)
 
 **Detalles**
 
