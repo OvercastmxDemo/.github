@@ -35,9 +35,6 @@ Company Communicator es una aplicación personalizada de Teams que permite a los
 
 La aplicación proporciona una interfaz fácil para que los usuarios designados creen, obtengan una vista previa, colaboren y envíen mensajes. También es una base para crear capacidades de comunicación dirigidas personalizadas, como la telemetría personalizada sobre cuántos usuarios reconocieron o interactuaron con un mensaje.
 
-**Enlace de referencia** 
-https://github.com/OfficeDev/microsoft-teams-apps-company-communicator
-
 **Version**
 5.2
 
@@ -45,13 +42,11 @@ https://github.com/OfficeDev/microsoft-teams-apps-company-communicator
 
 Cuenta de almacenamiento azure.
 
-**Costo**
-
-https://github.com/OfficeDev/microsoft-teams-apps-company-communicator/wiki/Cost-estimate
-
 **Detalles**
 
 Elementos importantes: Data Function, Prep function, function, App Service.
+**Enlace de referencia**: https://github.com/OfficeDev/microsoft-teams-apps-company-communicator
+**Costo**: https://github.com/OfficeDev/microsoft-teams-apps-company-communicator/wiki/Cost-estimate
 
 ## Reserva tu lugar
 
