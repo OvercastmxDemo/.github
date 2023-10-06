@@ -90,15 +90,32 @@ No requiere ninguna suscripción de Azure o conector premium.
 
 **Descripción**
 
-Aplicación para envío de reconocimientos por chat personal o en grupo de teams y personalización de catálogo de reconocimientos
+La aplicación "Reconcimientos" te permite enviar reconocimientos de manera personal o en grupos a través de Microsoft Teams. Puedes enviar reconocimientos a comunidades dentro de Viva Engage, y además, personalizar tu propio catálogo de reconocimientos para hacerlos únicos y significativos 
+
+**- Administración del catálogo de reconocimientos.**
+
+    - Creación y edición del catálogo.
+       Facilita a los administradores la capacidad de crear y editar el catálogo de reconocimientos, lo que les permite  agregar nuevas opciones o ajustar las existentes según 
+       las necesidades de la organización.
+
+    - Creación y edición del catálogo
+      Facilita a los administradores la capacidad de crear y editar el catálogo de reconocimientos, lo que les permite agregar nuevas opciones o ajustar las existentes según las 
+      necesidades de la organización.
+
+     - Control de permisos.
+       Administración de permisos. Proporciona a los administradores un panel de control centralizado para gestionar los permisos en la aplicación.
 
 **Origen de datos**
 
-SharePoint
+SharePoint.
 
-**Detalles**
+**Requerimientos técnicos**
+Aplicaciòn Power App.
+Licenciamiento M365 para implementación "E3 ó E5". 
+Licenciamiento M365 para usuario finales "F1".
+No requiere ninguna suscripción de Azure o conector premium.
+Yammer(Viva Engage) nativo previamente configurado.
 
-Sin necesidad de conectores premium o extras.
 
 ## Overcommunicator
 
