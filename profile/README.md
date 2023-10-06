@@ -124,23 +124,26 @@ Yammer(Viva Engage) nativo previamente configurado.
 
 **Descripción** 
 
-A través de esa aplicación se podrá realizar el envío de comunicados a las y los colaboradores, permitiendo una difusión a la población total.
+A través de esa aplicación se podrá realizar el envío de comunicados a las y los colaboradores, un envió de notificaciones a los usuarios por medio de segmentación o a toda la organización .
+ 
 
 Los comunicados podrán incluir texto, imágenes y un enlace que permitirá al usuario profundizar más en la temática del comunicado.
+ 
 
-Asimismo, la aplicación permitirá notificar a las y los usuarios a través de una *active card* publicada en el chat de los usuarios, la cual redirigirá a los usuarios a la aplicación.
+Asimismo, la aplicación permitirá notificar a las y los usuarios a través de una *active card* publicada en el chat de los usuarios por medio del chat de teams, la cual redirigirá a los usuarios a la aplicación.
+ 
 
 El acceso a esta aplicación será a través de Microsoft Teams y PowerApps y se contará con una vinculación con la intranet para atraer a los usuarios desde esa plataforma.
 
 **Origen de datos** 
 
-En SharePoint se guarda el historial de envió y catálogo de reconocimientos
+Listas de SharePoint.
 
-**Detalles**
+**Requerimientos técnicos**
 
 Por cada 1000 usuarios se debe tener una cuenta de servicio.
 
-El tiempo aproximado para él envío de comunicados es de 8 horas.
+El tiempo aproximado para él envío de comunicados es de 1000 envios x cada 8 horas.
 
 **Paquetes**
 
