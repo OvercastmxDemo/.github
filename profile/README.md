@@ -13,7 +13,10 @@ La aplicación de Universidad provee a los usuarios de una galería con cursos, 
 Sharepoint
 
 **Detalles**
-No requiere ninguna suscripción de Azure o conector premium
+Aplicaciòn Power App.
+Licenciamiento M365 para implementación "E3 ó E5" 
+Licenciamiento M365 para usuario finales "F1"
+No requiere ninguna suscripción de Azure o conector premium.
 
 ## Minutas
 
@@ -23,26 +26,30 @@ Aplicación para la creación de minutas dentro de una reuniòn de Teams, esto n
 **Origen de datos**
 Sharepoint.
 
-**Detalles**
-
-No requiere ninguna suscripción de Azure o conector premium
+**Requerimientos técnicos**
+Aplicaciòn Power App.
+Licenciamiento M365 para implementación "E3 ó E5" 
+Licenciamiento M365 para usuario finales "F1"
+No requiere ninguna suscripción de Azure o conector premium.
 
 ## Company Comunicator
 
 **Descripción**
 
-Company Communicator es una aplicación personalizada de Teams que permite a los equipos corporativos crear y enviar mensajes destinados a varios equipos o una gran cantidad de empleados a través del chat, lo que permite a la organización llegar a los empleados justo donde colaboran. Utilice esta plantilla para múltiples escenarios, como anuncios de nuevas iniciativas, incorporación de empleados, aprendizaje y desarrollo modernos o transmisiones en toda la organización.
+Company Communicator es una aplicación personalizada de Micosoft que permite a las organizaciones crear, personalizar y enviar mensajes a equipos de Teams, canales de comunicación y/o toda la organización a través del chat de Teams, lo que permite a la organización llegar a los usuarios de toda la organización. Puede utilizarse esta plantilla, por ejemplo: para múltiples anuncios de nuevas iniciativas, incorporación de nuevos colaboradores, aprendizaje y desarrollos modernos. 
 
-La aplicación proporciona una interfaz fácil para que los usuarios designados creen, obtengan una vista previa, colaboren y envíen mensajes. También es una base para crear capacidades de comunicación dirigidas personalizadas, como la telemetría personalizada sobre cuántos usuarios reconocieron o interactuaron con un mensaje.
+La aplicación proporciona una interfaz fácil para que los usuarios designados creen, obtengan una vista previa, colaboren y envíen mensajes. También es una base para crear capacidades de comunicación como la telemetría personalizada sobre cuántos usuarios reconocieron o interactuaron con un mensaje a través de un CSV con el recuento de usuarios que recibieron el mensaje.
 
 **Version**
-5.2
+5.5
 
 **Origen de datos** 
 
-Cuenta de almacenamiento azure.
+Cuenta de almacenamiento Azure.
 
-**Detalles**
+**Requerimientos técnicos**
+
+Solución de Azure
 
 Elementos importantes: Data Function, Prep function, function, App Service.
 
@@ -54,17 +61,27 @@ Costo estimado: https://github.com/OfficeDev/microsoft-teams-apps-company-commun
 
 **Descripción**
 
-Esta solución se compone de 3 aplicaciones (Reserva tu lugar, Control de acceso, Administración)
+La aplicación “Reserva tu lugar” ayuda a mostrar las áreas de trabajo dentro de una organización, los colaboradores realizan reservaciones propias, para un grupo de trabajo o usuarios externos, se muestran las políticas o protocolos a seguir en estas áreas de trabajo; pueden consultar solicitudes vigentes así como los espacios y horarios disponibles en que se puede reservar.
 
-La aplicación “Reserva tu lugar” ayuda a mostrar las áreas de trabajo donde los usuarios internos tienen permitido realizar reservaciones propias para un grupo de trabajo con usuarios internos y usuarios externos, consultar solicitudes actuales y anteriores, conocer los protocolos de seguridad dados de alta por el administrador
+ 
 
-La aplicación de administración permite crear, modificar y ver detalles los espacios, los lugares que están disponibles para los usuarios, además de los criterios de cada uno de ellos, obtener reportes de las reservaciones y gestionar los aprobadores para la aplicación
+El modulo administrador permite crear, modificar y ver detalles de los lugares que están disponibles para los usuarios, los criterios de cada uno de ellos, obtener reportes de las reservaciones y gestionar a los aprobadores para la aplicación.
 
-La aplicación de Control de acceso es una aplicación para el check in y check out a los usuarios, buscar la reservación por medio de QR o código de acceso
+ 
+
+El modulo de Control de acceso es una aplicación de check in y check out a los usuarios, busca la reservación por medio de un código QR o código de acceso.
 
 **Origen de datos** 
 
 Sharepoint
+
+**Requerimientos técnicos**
+
+Aplicaciòn Power App.
+Licenciamiento M365 para implementación "E3 ó E5" 
+Licenciamiento M365 para usuario finales "F1"
+No requiere ninguna suscripción de Azure o conector premium.
+
 
 ## Reconocimientos
 
