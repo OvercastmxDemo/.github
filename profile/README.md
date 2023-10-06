@@ -12,7 +12,7 @@ La aplicación de Universidad provee a los usuarios de una galería con cursos, 
 
 Sharepoint
 
-**Detalles**
+**Requerimientos técnicos**
 Aplicaciòn Power App.
 Licenciamiento M365 para implementación "E3 ó E5" 
 Licenciamiento M365 para usuario finales "F1"
@@ -36,14 +36,15 @@ No requiere ninguna suscripción de Azure o conector premium.
 
 **Descripción**
 
-Company Communicator es una aplicación personalizada de Micosoft que permite a las organizaciones crear, personalizar y enviar mensajes a equipos de Teams, canales de comunicación y/o toda la organización a través del chat de Teams, lo que permite a la organización llegar a los usuarios de toda la organización. Puede utilizarse esta plantilla, por ejemplo: para múltiples anuncios de nuevas iniciativas, incorporación de nuevos colaboradores, aprendizaje y desarrollos modernos. 
+Company Communicator es una aplicación personalizada de Micosoft que permite a las organizaciones crear, personalizar y enviar mensajes a equipos de Teams, canales de comunicación y/o toda la organización a través del chat de Teams, lo que permite a la organización llegar a los usuarios de toda la organización. Puede utilizarse esta plantilla para múltiples anuncios de nuevas iniciativas, incorporación de nuevos colaboradores, aprendizaje y desarrollos modernos.
 
-La aplicación proporciona una interfaz fácil para que los usuarios designados creen, obtengan una vista previa, colaboren y envíen mensajes. También es una base para crear capacidades de comunicación como la telemetría personalizada sobre cuántos usuarios reconocieron o interactuaron con un mensaje a través de un CSV con el recuento de usuarios que recibieron el mensaje.
+ 
+La aplicación proporciona una interfaz fácil para que los usuarios designados creen, obtengan una vista previa, colaboren y envíen mensajes. También es una base para crear capacidades de comunicación como la telemetría personalizada sobre cuántos usuarios reconocieron o interactuaron con un mensaje a través de un CSV con el recuento de usuarios que recibieron el mensaje. 
 
 **Version**
 5.5
 
-**Origen de datos** 
+**Requerimientos técnicos** 
 
 Cuenta de almacenamiento Azure.
 
