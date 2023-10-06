@@ -18,7 +18,7 @@ No requiere ninguna suscripción de Azure o conector premium
 ## Minutas
 
 **Descripción**
-Aplicación para la creación de minutas dentro de una llamada, esto nos permite tener una evidencia de lo acordado dentro de las sesiones y asignar responsables a ellas, al acabar la sesión se envía a través del correo electrónico a todos los involucrados dentro de la llamada.
+Aplicación para la creación de minutas dentro de una reuniòn de Teams, esto nos permite tener una evidencia de lo acordado dentro de las sesiones y asignar responsables a ellas, al acabar la sesión se envía a través del correo electrónico a todos los involucrados de la llamada.
 
 **Origen de datos**
 Sharepoint.
