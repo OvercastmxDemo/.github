@@ -13,6 +13,7 @@ La aplicación de Universidad provee a los usuarios de una galería con cursos, 
 Sharepoint
 
 **Requerimientos técnicos**
+
 Aplicaciòn Power App.
 Licenciamiento M365 para implementación "E3 ó E5" 
 Licenciamiento M365 para usuario finales "F1"
@@ -27,6 +28,7 @@ Aplicación para la creación de minutas dentro de una reuniòn de Teams, esto n
 Sharepoint.
 
 **Requerimientos técnicos**
+
 Aplicaciòn Power App.
 Licenciamiento M365 para implementación "E3 ó E5" 
 Licenciamiento M365 para usuario finales "F1"
